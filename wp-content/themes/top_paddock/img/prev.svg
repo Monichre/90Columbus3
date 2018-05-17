@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="62px" height="62px" viewBox="0 0 62 62" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 47.1 (45422) - http://www.bohemiancoding.com/sketch -->
+    <title>next</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="İmage-slayder" transform="translate(-169.000000, -329.000000)">
+            <g id="Group-3" transform="translate(170.000000, 330.000000)">
+                <g id="next" transform="translate(30.000000, 30.000000) scale(-1, 1) translate(-30.000000, -30.000000) ">
+                    <circle id="Oval-11" stroke="#FFFFFF" opacity="0.789911685" cx="30" cy="30" r="30"></circle>
+                    <g id="Group-2" transform="translate(23.000000, 27.000000)">
+                        <polygon id="Triangle-3" fill="#D8D8D8" points="13.5632333 3.5 9 7 9 0"></polygon>
+                        <path d="M10.5,3.5 L0.5,3.5" id="Line" stroke="#DDDDDD" opacity="0.673913043" stroke-linecap="square"></path>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
